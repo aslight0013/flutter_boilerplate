@@ -1,12 +1,12 @@
 # This branch is still under development
 
 
-# Boilerplate Project
+# Boilerplate
 
-A boilerplate project created in flutter using MobX and Provider. Boilerplate supports both web and mobile, clone the appropriate branches mentioned below:
+A boilerplate created in flutter using MobX and Provider. Boilerplate supports both web and mobile, clone the appropriate branches mentioned below:
 
-* For Mobile: https://github.com/zubairehman/flutter-boilerplate-project/tree/master (stable channel)
-* For Web: https://github.com/zubairehman/flutter-boilerplate-project/tree/feature/web-support (beta channel)
+* For Mobile: https://github.com/aslight0013/flutter_boilerplate/tree/master (stable channel)
+* For Web: https://github.com/aslight0013/flutter_boilerplate/tree/feature/web-support (beta channel)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ The Boilerplate contains the minimal implementation required to create a new lib
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/aslight0013/flutter_boilerplate.git
 ```
 
 **Step 2:**
@@ -93,7 +93,7 @@ In Visual Studio Code, navigate to `Preferences` -> `Settings` and search for `F
 * [Provider](https://github.com/rrousselGit/provider) (State Management)
 * [Encryption](https://github.com/xxtea/xxtea-dart)
 * [Validation](https://github.com/dart-league/validators)
-* [Logging](https://github.com/zubairehman/Flogs)
+* [Logging](https://github.com/aslight0013/Flogs)
 * [Notifications](https://github.com/AndreHaueisen/flushbar)
 * [Json Serialization](https://github.com/dart-lang/json_serializable)
 * [Dependency Injection](https://github.com/fluttercommunity/get_it)
@@ -289,7 +289,7 @@ class MyApp extends StatelessWidget {
 
 ## Wiki
 
-Checkout [wiki](https://github.com/zubairehman/flutter-boilerplate-project/wiki) for more info
+Checkout [wiki](https://github.com/aslight0013/flutter-boilerplate/wiki) for more info
 
 ## Conclusion
 
